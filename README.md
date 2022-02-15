@@ -1,4 +1,4 @@
-<b>Plant Disease Detection using CNN<b>
+<h2>Plant Disease Detection using CNN</h2>
 
 An automated system designed to help identify plant diseases by the plant’s appearance and visual symptoms could be of great help to amateurs in the gardening process and also trained professionals as a verification system in disease diagnostics.
 
