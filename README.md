@@ -6,3 +6,6 @@ Data Set: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset <br>
 Images count: 87.9K ( out of which we used 6K images) <br>
 Type: RGB(color) <br>
 Classes: 38 <br>
+
+The final overall accuracy of the trained model was more than 90%.
+ 
